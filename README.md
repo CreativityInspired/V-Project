@@ -4,7 +4,7 @@ This is the official site for the V-Project. All files for the V-Project will ap
 
 - Audio: All recordings and audio mixes will be found _**[here](https://creativityinspired.github.io/V-Project-Audio/)**_.
 
-- CGI: All pre-rendering 3D animations and computer graphics will be found _**[here]**_.
+- CGI: All pre-rendering 3D animations and computer graphics will be found _**[here](https://creativityinspired.github.io/V-Project-CGI/)**_.
 
 - Cinematography: All raw and processed video footage will be found _**[here]**_.
 
