@@ -2,7 +2,7 @@
 
 This is the official site for the V-Project. All files for the V-Project will appear on this site. Links to the other pages of the site will be found below:
 
-- Audio: All recordings and audio mixes will be found _**[here]**_.
+- Audio: All recordings and audio mixes will be found _**[here](https://creativityinspired.github.io/V-Project-Audio/)**_.
 
 - CGI: All pre-rendering 3D animations and computer graphics will be found _**[here]**_.
 
